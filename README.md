@@ -2,4 +2,4 @@
 
 # Steps to follow
 
-## 1- Add .env File containing (Mongo_URL, PASS_SEC, JWT_SEC )
+1- Add .env File containing (Mongo_URL, PASS_SEC, JWT_SEC )
